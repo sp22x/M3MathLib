@@ -1,4 +1,7 @@
 # M0
+- Linear algebra
+- Polynomials
+- Inequalities
 
 # M1
 Differential Calculus
